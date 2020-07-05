@@ -1,5 +1,5 @@
 # Realtime and Big Data Analytics Project
-CSCI-GA.3033-006 - Realtime and Big Data Analytics
+
 
 
 ## We are using the following data to analyze How Safe is Bike Sharing in New York City.
