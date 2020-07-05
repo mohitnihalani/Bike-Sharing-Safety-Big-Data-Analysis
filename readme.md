@@ -46,3 +46,7 @@ It  contains the Map Reduce code for preprocessing the datasets. The following m
 1. Mohit Nihalani
 2. Hardik Bharath Rokad
 3. Rohit Saraf
+
+---
+
+For execution of code please check process.txt
